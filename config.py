@@ -1,0 +1,7 @@
+PI_IMAGES_DIR = "~/Work/WallieImages" 
+CURRENT_TERM = "Summer2024"
+LOCAL_IMAGES_DIR = "E:/FromRPi"
+LOCAL_METADATA_DIR = "E:/MetadataFiles/"
+RPI_IP = "169.254.127.251"
+RPI_USER = "pi"
+YOLO_MODEL_PATH = "Object_Detection_Model/YOLOv8_custom.pt"
